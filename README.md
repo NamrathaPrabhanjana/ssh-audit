@@ -27,7 +27,7 @@ Repository Setup
    cd ssh-audit
    ```
 2. Modify and extend the provided template according to the requirements.
-3. Also upload a screen recording of the tool running on your system.
+3. Also upload a screen recording and/or detailed screenshots (with captions) of the tool running on your system.
 
 Implementation Details
 ----------------------
