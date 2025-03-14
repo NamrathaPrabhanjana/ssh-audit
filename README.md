@@ -54,9 +54,10 @@ Repository Structure
 │   │── bpf_prog.c     # eBPF program to track ssh connections
 │── scripts/
 │   │── test.sh        # Script to test the program
-```
+|── testing
+|   |── README.md      # Details of the implementation, test environment and test cases covered
 
-PLEASE NOTE: The repository serves only as a starter template and is flexible to modifications. It could be extended with additional files/folders as appropriate.
+PLEASE NOTE: The repository serves only as a starter template and is flexible to modifications. It could be extended with additional files/folders as appropriate and even based on the library that is chosen for implementation. 
 Just ensure the there is a test script and a detailed documentation of what each file does.
 
 Submission Instructions
